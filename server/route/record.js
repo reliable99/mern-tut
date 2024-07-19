@@ -1,6 +1,6 @@
 import express from "express";
 
-// This will help us connect to the database
+// This will help us connect to the database .. try it out
 import db from "../db/connection.js";
 
 // This help convert the id from string to ObjectId for the _id.
