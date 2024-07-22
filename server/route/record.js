@@ -7,7 +7,7 @@ import db from "../db/connection.js";
 import { ObjectId } from "mongodb";
 
 // router is an instance of the express router... router
-// We use it to define our routes.
+// We use it to define our routes... routes
 // The router will be added as a middleware and will take control of requests starting with path /record.
 const router = express.Router();
 
